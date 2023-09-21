@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<methodResponse>
+   <params>
+      <param>
+         <value><string>a &amp; b</string></value>
+         </param>
+      </params>
+   </methodResponse>
+
+<!-- 
+    If your server does not encode responses properly, 
+    you may have to process responses before parse.
+-->
+<!-- 
+    Be careful with encodings, the xmlrpc-decode function is rather 
+    strict. For example, the following response parse 
+    returns NULL :
+-->

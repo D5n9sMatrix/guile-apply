@@ -1,0 +1,30 @@
+<?xml version='1.0'?>
+<introspection version='1.0'>
+ <methodList>
+  <methodDescription name='introspection.hello'>
+   <author>Dan Libby</author>
+   <purpose>greets the caller and demonstrates use of introspection mechanism</purpose>
+   <signatures>
+    <signature>
+     <params>
+      <value type='string' name='name'>name of the caller</value>
+     </params>
+     <returns>
+      <value type='string'>a greeting to the caller</value>
+     </returns>
+    </signature>
+   </signatures>
+   <see><item>system.listMethods</item></see>
+   <examples/>
+   <errors>
+      <item>returns fault code 1 if the caller's name is not specified</item>
+   </errors>
+   <notes>
+    <item>this is a lame example</item>
+    <item>example of multiple notes</item>
+   </notes>
+   <bugs/>
+   <todo/>
+  </methodDescription>
+ </methodList>
+</introspection>

@@ -1,0 +1,21 @@
+{
+    "startupProject": "newproject",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+        {
+            "file": "/home/admin/guile-dlang/guile-apply/apply/newproject/source/app.d",
+            "column": 0,
+            "row": 0
+        }
+    ],
+    "expandedItems": [
+        "/home/admin/guile-dlang/guile-apply/apply/newproject/dub.json",
+        "/home/admin/guile-dlang/guile-apply/apply/newproject/source",
+        "/home/admin/guile-dlang/guile-apply/apply/newproject/source/vision_perfect",
+        "/home/admin/guile-dlang/guile-apply/apply/newproject/source/vision_perfect/graphic"
+    ],
+    "selectedWorkspaceItem": "/home/admin/guile-dlang/guile-apply/apply/newproject/source/app.d"
+}
